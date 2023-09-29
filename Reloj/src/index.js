@@ -1,0 +1,1 @@
+import Digitalclock from "/"
